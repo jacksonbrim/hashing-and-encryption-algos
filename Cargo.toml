@@ -1,4 +1,4 @@
 [package]
-name = "sha-encryption"
+name = "hashing-and-encryption-algos"
 version = "0.1.0"
 edition = "2021"
